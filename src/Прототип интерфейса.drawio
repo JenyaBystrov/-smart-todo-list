@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.5">
+  <diagram name="Страница — 1" id="ZuCdBI-HnBC9NeTr_4Kp">
+    <mxGraphModel dx="1657" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-nbig9HbmALPOtFZvK_J-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="760" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="-nbig9HbmALPOtFZvK_J-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="760" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-nbig9HbmALPOtFZvK_J-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="720" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-nbig9HbmALPOtFZvK_J-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="240" width="720" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-nbig9HbmALPOtFZvK_J-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="320" width="720" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-nbig9HbmALPOtFZvK_J-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="400" width="720" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-nbig9HbmALPOtFZvK_J-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="480" width="720" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-nbig9HbmALPOtFZvK_J-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="570" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-nbig9HbmALPOtFZvK_J-11" value="Приложение" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="369" y="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-nbig9HbmALPOtFZvK_J-13" value="Ввод новой задачи" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="175" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-nbig9HbmALPOtFZvK_J-14" value="Добавить" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="585" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-nbig9HbmALPOtFZvK_J-16" value="&lt;font style=&quot;color: rgb(255, 36, 2);&quot;&gt;высокий приоритет&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#FF0000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="255" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-nbig9HbmALPOtFZvK_J-18" value="&lt;font style=&quot;color: rgb(0, 59, 255);&quot;&gt;Средний приоритет&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#0021FF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="335" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-nbig9HbmALPOtFZvK_J-19" value="&lt;font style=&quot;color: rgb(247, 255, 30);&quot;&gt;низкий приоритет&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#FFF71C;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="415" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-nbig9HbmALPOtFZvK_J-20" value="&lt;font style=&quot;color: rgb(28, 255, 43);&quot;&gt;наименьший приоритет&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#26FF34;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="495" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
